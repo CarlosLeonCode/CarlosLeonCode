@@ -8,12 +8,12 @@ I am Carlos Leon (CarlosLeonCode) I am 21 years old and I am from Colombia :colo
 I’m currently working as Software developer Full stack RoR - React.js
 
 ![initial image](https://miro.medium.com/max/1360/1*VON9gHTrzeHZbHfXsqfzEA.gif)
-![Ruby developer](https://www.edureka.co/blog/wp-content/uploads/2019/02/What-is-Ruby-on-Rails-1.png)
+
 
 My favorite programming languages are:
 
-1. Ruby
-2. JavaScript
+1. Ruby (Ruby on Rails)
+2. JavaScript (React.js)
 3. Python    
 
 I love:
@@ -25,3 +25,8 @@ I love:
 ```javascript
   alert('Escribir es el super poder que compartimos los programador@s para crear y cambiar el entorno que nos rodea.')
 ```
+
+I am learning...
+
+- Node .js 
+- Docker
