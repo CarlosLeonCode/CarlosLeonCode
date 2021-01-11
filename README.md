@@ -28,5 +28,6 @@ I love:
 
 I am learning...
 
-- Node .js 
+- React native 
+- Node .js
 - Docker
