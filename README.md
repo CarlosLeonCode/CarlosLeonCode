@@ -6,78 +6,63 @@
 I am Carlos Leon (CarlosLeonCode) I am 22 years old and I am from Colombia and 
 I’m currently working as Software developer Full stack RoR - React.js
 </p>
-
-
+<br />  
 <!-- Social Media -->
-<div style="display: flex; justify-content: center; margin-top: 2rem">
-  <a href="https://www.linkedin.com/in/carlos-esteban-le%C3%B3n-pinilla/" target="_blank"> 
-    <button 
-      style="border: none; padding: 0.5rem; background-color: #0177B4; color: white;border-radius: 2px; margin: 0.5rem; width: 6rem; cursor: pointer;">Linkedin
-    </button>
+<div align="center">
+  <a href="https://www.linkedin.com/in/carlos-esteban-le%C3%B3n-pinilla/" target="_blank" style="margin: 0.5rem"> 
+    <img src="https://img.shields.io/badge/Linkedin-0177b4?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
-  <a href="https://carlosleoncode.com/" target="_blank"> 
-    <button 
-      style="border: none; padding: 0.5rem; background-color: #001529; color: white;border-radius: 2px; margin: 0.5rem; width: 6rem; cursor: pointer;">Website
-    </button>
+  <a href="https://carlosleoncode.com/" target="_blank" style="margin: 0.5rem"> 
+    <img src="https://img.shields.io/badge/Website-001529?style=for-the-badge" alt="Website">
   </a>
-  <a href="https://www.youtube.com/channel/UCsPVYNJKlMnAdQyGe1CdgBA" target="_blank"> 
-    <button 
-      style="border: none; padding: 0.5rem; background-color: #CD3B29; color: white;border-radius: 2px; margin: 0.5rem; width: 6rem; cursor: pointer;">YouTube
-    </button>
+  <a href="https://www.youtube.com/channel/UCsPVYNJKlMnAdQyGe1CdgBA" target="_blank" style="margin: 0.5rem"> 
+    <img src="https://img.shields.io/badge/YouTube-cd3b29?style=for-the-badge&logo=youtube&logoColor=white" alt="youtube">
   </a>
 </div>
-
-<div style="display: flex; justify-content: center">
-  <img src="https://image.freepik.com/vector-gratis/ilustracion-concepto-mecanografia-codigo_114360-3581.jpg" alt="freepik image" style="width: 50%"></img>
-</div>
-
+<br />  <br />  
 <!-- Stack, Tools and Skills -->
-
 <div>
   <h2 align="center"> Technologies, Tools and Programming Skills </h2>
   <div style="padding: 2rem;" align="center">
 
-  <img src="https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby"> </img>
-  
-  <span style="background-color: #CC3B2D; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: white; margin: .5rem; display: inline-block;"> Ruby </span>
-  <span style="background-color: #CC3B2D; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: white; margin: .5rem; display: inline-block;"> Ruby on Rails </span>
-  <span style="background-color: #6762A6; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: white; margin: .5rem; display: inline-block;"> Heroku </span>
-  <span style="background-color: #F7DF2C; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: black; margin: .5rem; display: inline-block;"> JavaScript </span>
-  <span style="background-color: #61DAFB; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: black; margin: .5rem; display: inline-block;"> React.js </span>
-  <span style="background-color: #61DAFB; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: black; margin: .5rem; display: inline-block;"> React Native </span>
-  <span style="background-color: #366F04; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: white; margin: .5rem; display: inline-block;"> Node JS </span>
-  <span style="background-color: #F04D32; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: white; margin: .5rem; display: inline-block;"> Git </span>
-  <span style="background-color: #0066B6; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: white; margin: .5rem; display: inline-block;"> CSS3 </span>
-  <span style="background-color: #CE548E; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: white; margin: .5rem; display: inline-block;"> Sass </span>
-  <span style="background-color: #E5612E; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: white; margin: .5rem; display: inline-block;"> HTML5 </span>
-  <span style="background-color: #2480C3; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: white; margin: .5rem; display: inline-block;"> SQL - Postgres - MySQL </span>
-  <span style="background-color: #583979; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: white; margin: .5rem; display: inline-block;"> Bootstrap </span>
-  <span style="background-color: #583979; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: white; margin: .5rem; display: inline-block;"> React Bootstrap </span>
-  <span style="background-color: #F2BD2E; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: black; margin: .5rem; display: inline-block;"> Python </span>
-  <span style="background-color: #4B9DBF; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: white; margin: .5rem; display: inline-block;"> Netlify </span>
-  <span style="background-color: #1D74FC; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: white; margin: .5rem; display: inline-block;"> Ant Design </span>
-  <span style="background-color: #FFCB30; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: black; margin: .5rem; display: inline-block;"> Firebase </span>
-  <span style="background-color: #212D3C; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: white; margin: .5rem; display: inline-block;"> AWS </span>
-  <span style="background-color: #F2F2F2; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: black; margin: .5rem; display: inline-block;"> Google Cloud </span>
-
+  <img src="https://img.shields.io/badge/Ruby-red?style=for-the-badge&logo=ruby" alt="Ruby"></img>
+  <img src="https://img.shields.io/badge/Ruby%20on%20Rails-red?style=for-the-badge&logo=ruby" alt="Ruby on Rails"></img>
+  <img src="https://img.shields.io/badge/Heroku-6762a6?style=for-the-badge&logo=heroku" alt="Heroku"></img>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF2C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></img>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF2C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></img>
+  <img src="https://img.shields.io/badge/React%20JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React JS"></img>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"></img>
+  <img src="https://img.shields.io/badge/Node%20JS-366F04?style=for-the-badge&logo=javascript&logoColor=white" alt="Node JS"></img>
+  <img src="https://img.shields.io/badge/Git-F04D32?style=for-the-badge&logo=git&logoColor=white" alt="Git"></img>
+  <img src="https://img.shields.io/badge/CSS3-0066B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></img>
+  <img src="https://img.shields.io/badge/Sass-CE548E?style=for-the-badge&logo=sass&logoColor=white" alt="Sass"></img>
+  <img src="https://img.shields.io/badge/HTML5-E5612E?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></img>
+  <img src="https://img.shields.io/badge/HTML5-E5612E?style=for-the-badge&logo=html5&logoColor=white" alt="Sass"></img>
+  <img src="https://img.shields.io/badge/MysQL%20%7C%20PostgreSql-2480c3?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL - postgreSql - Mysql"></img>
+  <img src="https://img.shields.io/badge/Bootstrap-583979?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></img>
+  <img src="https://img.shields.io/badge/React%20Bootstrap-583979?style=for-the-badge&logo=bootstrap&logoColor=white" alt="React Bootstrap"></img>
+  <img src="https://img.shields.io/badge/Python-f2bd2e?style=for-the-badge&logo=python&logoColor=black" alt="Python"></img>
+  <img src="https://img.shields.io/badge/Netlify-4B9DBF?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"></img>
+  <img src="https://img.shields.io/badge/Ant%20Design-1D74FC?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design"></img>
+  <img src="https://img.shields.io/badge/Firebase-ffcb30?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"></img>
+  <img src="https://img.shields.io/badge/AWS-212d3c?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS"></img>
+  <img src="https://img.shields.io/badge/Google%20Cloud-f2f2f2?style=for-the-badge&logo=googlecloud&logoColor=black" alt="Google Cloud"></img>
   </div>
 </div>
 
 <hr/>
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); margin-top: 2rem;">
-  <img src="https://image.freepik.com/vector-gratis/ilustracion-concepto-meta_114360-903.jpg"></img>
-  <div>
-    <h4 align="center"> Next goals </h4>
-    <div style="margin-top: 1rem">
-      <span style="background-color: #202124; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: white; margin: .5rem; display: inline-block;"> Docker </span>
-      <span style="background-color: #202124; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: white; margin: .5rem; display: inline-block;"> TypeScript </span>
-      <span style="background-color: #202124; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: white; margin: .5rem; display: inline-block;"> Solidity </span>
-      <span style="background-color: #202124; font-size: 1rem; padding: .5rem; padding-left: 1rem ;padding-right: 1rem; border-radius: 2px; color: white; margin: .5rem; display: inline-block;"> React VR </span>
-    </div>
+<div>
+  <h4 align="center"> Next goals </h4>
+  <br />  
+  <div align="center">
+    <img src="https://img.shields.io/badge/Docker-202124?style=for-the-badge" alt="docker badge"></img>
+    <img src="https://img.shields.io/badge/TypeScript-202124?style=for-the-badge" alt="TypeScript badge"></img>
+    <img src="https://img.shields.io/badge/Solidity-202124?style=for-the-badge" alt="Solidity badge"></img>
+    <img src="https://img.shields.io/badge/React%20VR-202124?style=for-the-badge" alt="React VR badge"></img>
   </div>
 </div>
-
+<br />  
 <div>
   <h4> My favorite programming languages are: </h4>
 
