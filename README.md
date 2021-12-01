@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, I'm Carlos - 'CarlosLeonCode' 🤓 🎶</h1>
-<h2 align="center"> Sotware Engineer & Software Developer Full Stack </h2>
+<h2 align="center"> Software Engineer & Software Developer Full Stack </h2>
 <h3 align="center"> Bogotá - Colombia 🇨🇴 <h3>
 <p style="margin-top: 1rem; font-size: 0.9rem; color: #919191" align="center">
 I am Carlos Leon (CarlosLeonCode) I am 22 years old and I am from Colombia and 
