@@ -2,8 +2,8 @@
 <h2 align="center"> Software Engineer & Software Developer Full Stack </h2>
 <h3 align="center"> Bogotá - Colombia 🇨🇴 <h3>
 <p style="margin-top: 1rem; font-size: 0.9rem; color: #919191" align="center">
-I am Carlos Leon (CarlosLeonCode) I am 23 years old and I am from Colombia and 
-I’m currently working as Software developer Full stack RoR - React.js
+I am Carlos Leon (CarlosLeonCode) I am 24 years old and I am from Colombia and 
+I’m currently working as Application Development Specialist
 </p>
 <br />  
 <!-- Social Media -->
@@ -54,10 +54,10 @@ I’m currently working as Software developer Full stack RoR - React.js
   <h4 align="center"> Next goals </h4>
   <br />  
   <div align="center">
-    <img src="https://img.shields.io/badge/Docker-202124?style=for-the-badge" alt="docker badge"></img>
+    <img src="https://img.shields.io/badge/Docker-202124?style=for-the-badge" alt="Docker badge"></img>
     <img src="https://img.shields.io/badge/TypeScript-202124?style=for-the-badge" alt="TypeScript badge"></img>
     <img src="https://img.shields.io/badge/Solidity-202124?style=for-the-badge" alt="Solidity badge"></img>
-    <img src="https://img.shields.io/badge/React%20VR-202124?style=for-the-badge" alt="React VR badge"></img>
+    <img src="https://img.shields.io/badge/Blockchain-202124?style=for-the-badge" alt="Blockchain badge"></img>
   </div>
 </div>
 <br />  
