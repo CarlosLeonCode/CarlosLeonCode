@@ -13,6 +13,8 @@
 - 👯 I’m looking to collaborate on Open Sources projects related to Music, Gen AI, Ruby, Python or JS.
 - 📫 How to reach me: [Check my website!](https://carlosleoncode.com) or my [Linkedin](https://www.linkedin.com/in/carlosleoncode)
 - 🤓 Teaching about tech in spanish on [Youtube](https://www.youtube.com/channel/UCsPVYNJKlMnAdQyGe1CdgBA) and [Instagram](https://www.instagram.com/carlosleoncode/)
+- 🎶 Music Lover, DJ & Producer -> Check my [Youtube Channel](https://www.youtube.com/@woliware)
+- 💪 Gym Lover
 
 <br /> <br />
 
@@ -24,6 +26,13 @@
 </div>
 
 <br /> <br />
+
+<div align="center">
+  
+![skills GH](https://github.com/CarlosLeonCode/CarlosLeonCode/assets/40130036/9d2f221c-7126-4aac-a751-af37bc17c9b0)
+
+</div>
+
 
 <div align="center" >
   
