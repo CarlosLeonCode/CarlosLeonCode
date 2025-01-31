@@ -23,7 +23,7 @@
   <a href="https://linktr.ee/carlosleoncode" target="_blank" style="margin: 0.5rem"> 
     <img src="https://img.shields.io/badge/Linktree-212d3c?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
   </a>
-  <a href="[https://linktr.ee/carlosleoncode](https://www.linkedin.com/in/carlosleoncode/)" target="_blank" style="margin: 0.5rem"> 
+  <a href="https://www.linkedin.com/in/carlosleoncode" target="_blank" style="margin: 0.5rem"> 
     <img src="https://img.shields.io/badge/linkedin-212d3c?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linktree">
   </a>
     
