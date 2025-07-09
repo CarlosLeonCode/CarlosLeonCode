@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on contribute to the community of Ruby Devs in Spanish, teaching and sharing content. (As well about another technologies 🙂)
 - 🌱 I’m currently learning Web 3, Smart Contracts - Blockchain, Cloud Native Arquitecture on AWS.
 - 👯 I’m looking to collaborate on Open Sources projects related to Music, Gen AI, Ruby, Python or JS.
-- 📫 How to reach me: [Check my website!](https://carlosleoncode.com) or my [Linkedin](https://www.linkedin.com/in/carlosleoncode)
+- 📫 How to reach me: [Check my website!](https://carlosleoncode.dev) or my [Linkedin](https://www.linkedin.com/in/carlosleoncode)
 - 🤓 Teaching about tech in spanish on [Youtube](https://www.youtube.com/channel/UCsPVYNJKlMnAdQyGe1CdgBA) and [Instagram](https://www.instagram.com/carlosleoncode/)
 - 🎶 Music Lover, DJ & Producer -> Check my [Youtube Channel](https://www.youtube.com/@woliware)
 - 💪 Gym Lover
