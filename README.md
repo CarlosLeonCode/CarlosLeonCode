@@ -1,6 +1,6 @@
 <!--- Banner -->
 <div>
-  <img src="https://github.com/CarlosLeonCode/CarlosLeonCode/assets/40130036/01f076fd-182e-413a-84d0-e470402f1420"/>
+  <img src="https://github.com/user-attachments/assets/a4ae7a58-231a-4dce-96e7-bcc60da90be3"/>
 </div>
 
 <br />
