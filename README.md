@@ -32,8 +32,8 @@
 <br /> <br />
 
 <div align="center">
-  
-![skills GH](https://github.com/CarlosLeonCode/CarlosLeonCode/assets/40130036/9d2f221c-7126-4aac-a751-af37bc17c9b0)
+
+![skills GH](https://github.com/user-attachments/assets/d1021be1-0788-4d77-aac1-6d4ae65ca931)
 
 </div>
 
