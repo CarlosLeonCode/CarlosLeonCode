@@ -1,6 +1,6 @@
 <!--- Banner -->
 <div>
-  <img src="https://github.com/user-attachments/assets/a4ae7a58-231a-4dce-96e7-bcc60da90be3"/>
+  <img width="1940" height="1133" alt="banner GH" src="https://github.com/user-attachments/assets/09424ad3-efd2-4876-8097-72890674a327" />
 </div>
 
 <br />
