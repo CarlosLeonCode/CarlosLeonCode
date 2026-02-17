@@ -49,3 +49,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosleoncode&size_weight=0.5&count_weight=0.5&langs_count=9)
 
 </div>
+
+### ☕ Support My Work
+
+If my projects or content bring you value, you can support me here:
+
+[![☕ Support on Ko-fi](https://img.shields.io/badge/Support%20My%20Work%20on%20Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/carlosleoncode)
+
